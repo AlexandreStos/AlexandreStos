@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexandreStos
-- 👀 I’m interested in R language, data science, and its application to academic research
-- 🌱 I’m currently learning R language and Data Science
+- 👀 I’m interested in R, Python, Data Science, and its application to research
+- 🌱 I’m currently learning R, Python, and Data Science
 - 💞️I'm looking to collaborate on the development of tools that allow researchers to use programming
 - 📫 email address: alexandrestos@usp.br |  alexandresantos.ef@gmail.com
 
